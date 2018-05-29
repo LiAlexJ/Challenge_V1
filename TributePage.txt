@@ -1,0 +1,5 @@
+Tribute page must have an image and text
+Must contain a link that will tkae me to an external website with further information on the topic
+See https://codepen.io/freeCodeCamp/full/NNvBQW
+
+
